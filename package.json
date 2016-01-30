@@ -1,0 +1,28 @@
+{
+  "name": "header-parser",
+  "version": "0.1.0",
+  "description": "microservice header-parser",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f021/header-parser.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "f021 <andrei.fzto@gmail.com> (http://f021.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/f021/header-parser/issues"
+  },
+  "homepage": "https://github.com/f021/header-parser#readme",
+  "engines": {
+    "node": "5.5.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
